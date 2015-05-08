@@ -1,3 +1,5 @@
+Because we are not acquainted with Github, the demo file is not successfully uploaded yet. We are looking forward to the solution.
+
 # tidal-creeks-extraction
 MATLAB code for automatic extracting tidal creeks from lidar dem
 Automated method for extracting tidal creeks (AMETC) from LiDAR DEMs is implemented in MATLAB R2013a. The AMETC can also be extended to Landsat-8 OLI images (using the modified NDWI). There are three m-files in total.
